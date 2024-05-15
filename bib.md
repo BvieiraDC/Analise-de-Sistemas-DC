@@ -24,7 +24,7 @@ Conteúdos: Software e Hardware, Arquitetura,  S.O. e Redes
 
 ---
 ### Análise e Projetos de Sistemas
-* Marco Tulio Valente. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
+* VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
 
 ---
 ### Programação Front-End
