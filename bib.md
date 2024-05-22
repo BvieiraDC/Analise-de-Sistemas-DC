@@ -8,10 +8,8 @@
 
 ## Repositório Bibliográfico do Curso Técnico Integrado em Desenvolvimento de Sistemas
 
-* [Repositório no GitHub](https://github.com/Universidade-Livre/ciencia-da-computacao)
+Esse repositório é composto por obras que permitem acesso público e gratuito.
 
-
----
 ### Lógica Computacional
 
 * RAMALHO, Luciano. **Python Fluente**. Editora: O’Reilly, 2023. - [Link](https://pythonfluente.com/)
@@ -45,5 +43,10 @@ Conteúdos: Software e Hardware, Arquitetura,  S.O. e Redes
 * DOWNEY, Allen B. **Pense em Python: Pense como um cientista da computação**. Novatec Editora, 2016. - [Link](https://penseallen.github.io/PensePython2e/)
 
 <!-- ### Computação Gráfica -->
+
+---
+### Para ir além
+
+* [Repositório no GitHub](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="10%" height="25%" align="right">
