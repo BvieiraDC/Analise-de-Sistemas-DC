@@ -16,12 +16,12 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 
 ---
 ### Ciência da Computação
-Conteúdos: Software e Hardware, Arquitetura,  S.O. e Redes
 
 * MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2 - [Link](https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos "https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos")
 
 ---
 ### Análise e Projetos de Sistemas
+
 * VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
 
 ---
@@ -29,20 +29,9 @@ Conteúdos: Software e Hardware, Arquitetura,  S.O. e Redes
 
 * W3Schools Online Web Tutorials. https://www.w3schools.com/. Acesso em 29 de abril de 2024.
 
-<!-- ---
-### Programação Mobile -->
-
-<!-- ---
-### Banco de Dados -->
-
-<!-- ---
-### Programação Back-End -->
-
 ---
 ###  Programação no Des. de Sistemas
 * DOWNEY, Allen B. **Pense em Python: Pense como um cientista da computação**. Novatec Editora, 2016. - [Link](https://penseallen.github.io/PensePython2e/)
-
-<!-- ### Computação Gráfica -->
 
 ---
 ### Para ir além
