@@ -35,8 +35,8 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 * RAMALHO, Luciano. **Python Fluente**. Editora: O’Reilly, 2023. - [Link](https://pythonfluente.com/)
 
 ---
-### Para ir além
+<!-- ### Para ir além -->
 
-* [Repositório no GitHub](https://github.com/Universidade-Livre/ciencia-da-computacao)
+<!-- * [Repositório no GitHub](https://github.com/Universidade-Livre/ciencia-da-computacao) -->
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="10%" height="25%" align="right">
