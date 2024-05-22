@@ -6,31 +6,31 @@
       <h5 style="text-align: center;">e-mail: unidadepolocm@gmail.com</h5>
 <br>
 
-## Repositório Bibliográfico do Curso Técnico Integrado em Desenvolvimento de Sistemas
+#### Repositório Bibliográfico do Curso Técnico Integrado em Desenvolvimento de Sistemas
 
 Esse repositório é composto por obras que permitem acesso público e gratuito.
 
-### Lógica Computacional
+##### Lógica Computacional
 
 * DOWNEY, Allen B. **Pense em Python: Pense como um cientista da computação**. Novatec Editora, 2016. - [Link](https://penseallen.github.io/PensePython2e/)
 
 ---
-### Ciência da Computação
+##### Ciência da Computação
 
 * MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2 - [Link](https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos "https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos")
 
 ---
-### Análise e Projetos de Sistemas
+##### Análise e Projetos de Sistemas
 
 * VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
 
 ---
-###  Programação no Desenvolvimento de Sistemas
+#####  Programação no Desenvolvimento de Sistemas
 
 * RAMALHO, Luciano. **Python Fluente**. Editora: O’Reilly, 2023. - [Link](https://pythonfluente.com/)
 
 ---
-### Programação Front-End
+##### Programação Front-End
 
 * W3Schools Online Web Tutorials. https://www.w3schools.com/. Acesso em 29 de abril de 2024.
 
