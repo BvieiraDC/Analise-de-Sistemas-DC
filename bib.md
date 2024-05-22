@@ -12,7 +12,7 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 
 ### Lógica Computacional
 
-* RAMALHO, Luciano. **Python Fluente**. Editora: O’Reilly, 2023. - [Link](https://pythonfluente.com/)
+* DOWNEY, Allen B. **Pense em Python: Pense como um cientista da computação**. Novatec Editora, 2016. - [Link](https://penseallen.github.io/PensePython2e/)
 
 ---
 ### Ciência da Computação
@@ -30,8 +30,9 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 * W3Schools Online Web Tutorials. https://www.w3schools.com/. Acesso em 29 de abril de 2024.
 
 ---
-###  Programação no Des. de Sistemas
-* DOWNEY, Allen B. **Pense em Python: Pense como um cientista da computação**. Novatec Editora, 2016. - [Link](https://penseallen.github.io/PensePython2e/)
+###  Programação no Desenvolvimento de Sistemas
+
+* RAMALHO, Luciano. **Python Fluente**. Editora: O’Reilly, 2023. - [Link](https://pythonfluente.com/)
 
 ---
 ### Para ir além
