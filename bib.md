@@ -25,16 +25,15 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 * VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
 
 ---
-### Programação Front-End
-
-* W3Schools Online Web Tutorials. https://www.w3schools.com/. Acesso em 29 de abril de 2024.
-
----
 ###  Programação no Desenvolvimento de Sistemas
 
 * RAMALHO, Luciano. **Python Fluente**. Editora: O’Reilly, 2023. - [Link](https://pythonfluente.com/)
 
 ---
+### Programação Front-End
+
+* W3Schools Online Web Tutorials. https://www.w3schools.com/. Acesso em 29 de abril de 2024.
+
 <!-- ### Para ir além -->
 
 <!-- * [Repositório no GitHub](https://github.com/Universidade-Livre/ciencia-da-computacao) -->
