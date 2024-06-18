@@ -8,7 +8,7 @@
 
 #### Repositório Bibliográfico do Curso Técnico Integrado em Desenvolvimento de Sistemas
 
-Esse repositório é composto por obras que permitem acesso público e gratuito. Seu objetivo é reunir conteúdos de referência e qualidade reconhecia para que professores e alunos do curso técnico possam usar nas respectivas unidades curriculares. 
+Esse repositório é composto por obras que permitem acesso público e gratuito. Seu objetivo é reunir conteúdos de referência e qualidade reconhecida para que professores e alunos do curso técnico possam usá-los nas respectivas unidades curriculares. A coleção de obras sempre poderá ser ampliada colaborativamente pelos alunos e corpo docente.
 
 ##### Lógica Computacional
 
