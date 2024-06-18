@@ -17,12 +17,12 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 ---
 ##### Ciência da Computação
 
-* MAZIERO, C. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2 - [Link](https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos "https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos")
+* MAZIERO, C. **Sistemas Operacionais: Conceitos e Mecanismos**. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2 - [Link](https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos "https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos")
 
 ---
 ##### Análise e Projetos de Sistemas
 
-* VALENTE, Marco Tulio. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
+* VALENTE, Marco Tulio. **Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade**, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
 
 ---
 #####  Programação no Desenvolvimento de Sistemas
