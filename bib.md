@@ -8,7 +8,7 @@
 
 #### Repositório Bibliográfico do Curso Técnico Integrado em Desenvolvimento de Sistemas
 
-Esse repositório é composto por obras que permitem acesso público e gratuito.
+Esse repositório é composto por obras que permitem acesso público e gratuito. 
 
 ##### Lógica Computacional
 
@@ -38,4 +38,8 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 
 <!-- * [Repositório no GitHub](https://github.com/Universidade-Livre/ciencia-da-computacao) -->
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="10%" height="25%" align="right">
+<!-- <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="10%" height="25%" align="right"> -->
+
+---
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://gist.github.com/unidadepolocm-ds/ac08fa606100ca8e84e9a566a325fd6e">Repositório bibliográfico do curso técnico em Desenvolvimento de Sistemas</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://giorgiobraz.com">Giorgio Braz</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
