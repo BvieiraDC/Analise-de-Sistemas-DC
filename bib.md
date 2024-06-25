@@ -17,7 +17,7 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 ---
 ##### Ciência da Computação
 
-* MAZIERO, C. **Sistemas Operacionais: Conceitos e Mecanismos**. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2 - [Link](https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos "https://www.researchgate.net/publication/343921399_Sistemas_Operacionais_Conceitos_e_Mecanismos")
+* MAZIERO, C. **Sistemas Operacionais: Conceitos e Mecanismos**. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2 - [Link](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start).
 
 ---
 ##### Análise e Projetos de Sistemas
