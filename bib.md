@@ -24,7 +24,9 @@ Esse repositório é composto por obras que permitem acesso público e gratuito.
 
 * VALENTE, Marco Tulio. **Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade**, Editora: Independente, 2020. - [Link](https://engsoftmoderna.info/)
 
-* MACIEL, Cristiano; VITERBO, José. **Computação e Sociedade: A Tecnologia, Volume 3**. 2020.- [Link](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/75)
+* MACIEL, Cristiano; VITERBO, José. **Computação e Sociedade: A Profissão. Volume 1**. 2020. - [Link](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/73)
+
+* MACIEL, Cristiano; VITERBO, José. **Computação e Sociedade: A Tecnologia, Volume 3**. 2020. - [Link](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/75)
 ---
 #####  Programação no Desenvolvimento de Sistemas
 
